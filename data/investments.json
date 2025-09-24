@@ -1,0 +1,27 @@
+[
+  {
+    "symbol": "AAPL",
+    "shares": 10.0,
+    "purchase_price": 140.00
+  },
+  {
+    "symbol": "GOOGL",
+    "shares": 5.0,
+    "purchase_price": 2500.00
+  },
+  {
+    "symbol": "MSFT",
+    "shares": 15.0,
+    "purchase_price": 280.00
+  },
+  {
+    "symbol": "TSLA",
+    "shares": 8.0,
+    "purchase_price": 180.00
+  },
+  {
+    "symbol": "SPY",
+    "shares": 25.0,
+    "purchase_price": 380.00
+  }
+]
